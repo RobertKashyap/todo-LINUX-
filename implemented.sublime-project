@@ -1,0 +1,47 @@
+{
+	"folders":
+	[
+		{
+			"path": "./"
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "implemented - all",
+			"cmd": ["/usr/bin/make", "-f", "Makefile", "all"],
+			"working_dir": "${project_path}",
+			"file_regex": "^(..[^:]*)(?::|\\()([0-9]+)(?::|\\))(?:([0-9]+):)?\\s*(.*)"
+		},
+		{
+			"name": "implemented - clean",
+			"cmd": ["/usr/bin/make", "-f", "Makefile", "clean"],
+			"working_dir": "${project_path}",
+			"file_regex": "^(..[^:]*)(?::|\\()([0-9]+)(?::|\\))(?:([0-9]+):)?\\s*(.*)"
+		},
+		{
+			"name": "implemented - rebuild_cache",
+			"cmd": ["/usr/bin/make", "-f", "Makefile", "rebuild_cache"],
+			"working_dir": "${project_path}",
+			"file_regex": "^(..[^:]*)(?::|\\()([0-9]+)(?::|\\))(?:([0-9]+):)?\\s*(.*)"
+		},
+		{
+			"name": "implemented - implemented",
+			"cmd": ["/usr/bin/make", "-f", "Makefile", "implemented"],
+			"working_dir": "${project_path}",
+			"file_regex": "^(..[^:]*)(?::|\\()([0-9]+)(?::|\\))(?:([0-9]+):)?\\s*(.*)"
+		},
+		{
+			"name": "implemented - implemented/fast",
+			"cmd": ["/usr/bin/make", "-f", "Makefile", "implemented/fast"],
+			"working_dir": "${project_path}",
+			"file_regex": "^(..[^:]*)(?::|\\()([0-9]+)(?::|\\))(?:([0-9]+):)?\\s*(.*)"
+		},
+		{
+			"name": "implemented - edit_cache",
+			"cmd": ["/usr/bin/make", "-f", "Makefile", "edit_cache"],
+			"working_dir": "${project_path}",
+			"file_regex": "^(..[^:]*)(?::|\\()([0-9]+)(?::|\\))(?:([0-9]+):)?\\s*(.*)"
+		}
+	]
+}
