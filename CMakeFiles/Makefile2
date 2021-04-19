@@ -54,45 +54,45 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)"
+CMAKE_SOURCE_DIR = /home/robert/me_and_x86_64/gitDirectories/todoLINUX
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)"
+CMAKE_BINARY_DIR = /home/robert/me_and_x86_64/gitDirectories/todoLINUX
 
 #=============================================================================
-# Target rules for target CMakeFiles/implemented.dir
+# Target rules for target CMakeFiles/TODO.dir
 
 # All Build rule for target.
-CMakeFiles/implemented.dir/all:
-	$(MAKE) -f CMakeFiles/implemented.dir/build.make CMakeFiles/implemented.dir/depend
-	$(MAKE) -f CMakeFiles/implemented.dir/build.make CMakeFiles/implemented.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)/CMakeFiles" --progress-num=1,2 "Built target implemented"
-.PHONY : CMakeFiles/implemented.dir/all
+CMakeFiles/TODO.dir/all:
+	$(MAKE) -f CMakeFiles/TODO.dir/build.make CMakeFiles/TODO.dir/depend
+	$(MAKE) -f CMakeFiles/TODO.dir/build.make CMakeFiles/TODO.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles --progress-num=1,2 "Built target TODO"
+.PHONY : CMakeFiles/TODO.dir/all
 
 # Include target in all.
-all: CMakeFiles/implemented.dir/all
+all: CMakeFiles/TODO.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/implemented.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)/CMakeFiles" 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/implemented.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)/CMakeFiles" 0
-.PHONY : CMakeFiles/implemented.dir/rule
+CMakeFiles/TODO.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/TODO.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles 0
+.PHONY : CMakeFiles/TODO.dir/rule
 
 # Convenience name for target.
-implemented: CMakeFiles/implemented.dir/rule
+TODO: CMakeFiles/TODO.dir/rule
 
-.PHONY : implemented
-
-# clean rule for target.
-CMakeFiles/implemented.dir/clean:
-	$(MAKE) -f CMakeFiles/implemented.dir/build.make CMakeFiles/implemented.dir/clean
-.PHONY : CMakeFiles/implemented.dir/clean
+.PHONY : TODO
 
 # clean rule for target.
-clean: CMakeFiles/implemented.dir/clean
+CMakeFiles/TODO.dir/clean:
+	$(MAKE) -f CMakeFiles/TODO.dir/build.make CMakeFiles/TODO.dir/clean
+.PHONY : CMakeFiles/TODO.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/TODO.dir/clean
 
 .PHONY : clean
 

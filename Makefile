@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)"
+CMAKE_SOURCE_DIR = /home/robert/me_and_x86_64/gitDirectories/todoLINUX
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)"
+CMAKE_BINARY_DIR = /home/robert/me_and_x86_64/gitDirectories/todoLINUX
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)/CMakeFiles" "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles /home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named implemented
+# Target rules for targets named TODO
 
 # Build rule for target.
-implemented: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 implemented
-.PHONY : implemented
+TODO: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TODO
+.PHONY : TODO
 
 # fast build rule for target.
-implemented/fast:
-	$(MAKE) -f CMakeFiles/implemented.dir/build.make CMakeFiles/implemented.dir/build
-.PHONY : implemented/fast
+TODO/fast:
+	$(MAKE) -f CMakeFiles/TODO.dir/build.make CMakeFiles/TODO.dir/build
+.PHONY : TODO/fast
 
 src/todo.o: src/todo.cpp.o
 
@@ -129,7 +129,7 @@ src/todo.o: src/todo.cpp.o
 
 # target to build an object file
 src/todo.cpp.o:
-	$(MAKE) -f CMakeFiles/implemented.dir/build.make CMakeFiles/implemented.dir/src/todo.cpp.o
+	$(MAKE) -f CMakeFiles/TODO.dir/build.make CMakeFiles/TODO.dir/src/todo.cpp.o
 .PHONY : src/todo.cpp.o
 
 src/todo.i: src/todo.cpp.i
@@ -138,7 +138,7 @@ src/todo.i: src/todo.cpp.i
 
 # target to preprocess a source file
 src/todo.cpp.i:
-	$(MAKE) -f CMakeFiles/implemented.dir/build.make CMakeFiles/implemented.dir/src/todo.cpp.i
+	$(MAKE) -f CMakeFiles/TODO.dir/build.make CMakeFiles/TODO.dir/src/todo.cpp.i
 .PHONY : src/todo.cpp.i
 
 src/todo.s: src/todo.cpp.s
@@ -147,7 +147,7 @@ src/todo.s: src/todo.cpp.s
 
 # target to generate assembly for a file
 src/todo.cpp.s:
-	$(MAKE) -f CMakeFiles/implemented.dir/build.make CMakeFiles/implemented.dir/src/todo.cpp.s
+	$(MAKE) -f CMakeFiles/TODO.dir/build.make CMakeFiles/TODO.dir/src/todo.cpp.s
 .PHONY : src/todo.cpp.s
 
 # Help Target
@@ -157,7 +157,7 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... implemented"
+	@echo "... TODO"
 	@echo "... edit_cache"
 	@echo "... src/todo.o"
 	@echo "... src/todo.i"

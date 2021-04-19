@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)/src/todo.cpp" "/home/robert/me_and_x86_64/gitDirectories/todo(LINUX)/CMakeFiles/implemented.dir/src/todo.cpp.o"
+  "/home/robert/me_and_x86_64/gitDirectories/todoLINUX/src/todo.cpp" "/home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles/TODO.dir/src/todo.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

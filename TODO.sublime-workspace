@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show",
+				"showAll"
+			],
+			[
+				"uninsta",
+				"uninstallTodo"
+			],
+			[
+				"s",
+				"strcmp"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"sq",
+				"sqrt"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"sa",
+				"swapReference"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"end",
+				"end\tfunc"
+			],
+			[
+				"for",
+				"for_each\tfunc"
+			],
+			[
+				"iostre",
+				"I-iostream\tinc"
+			],
+			[
+				"fr",
+				"frac"
+			],
+			[
+				"fra",
+				"fracToBin"
+			],
+			[
+				"c",
+				"cin"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"wh",
+				"whToBin"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"inor",
+				"inorderTraversal"
+			],
+			[
+				"ino",
+				"inorderTraversal"
+			],
+			[
+				"n",
+				"node"
+			],
+			[
+				"dele",
+				"deleteNode"
+			],
+			[
+				"min",
+				"minNode"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"new",
+				"newnode"
+			],
+			[
+				"Bina",
+				"BinarySearchTree"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"t",
+				"temp"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"b",
+				"b"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/todo.cpp",
+			"settings":
+			{
+				"buffer_size": 1838,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Debug Mode"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Build With: C++ Single File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/robert/me_and_x86_64/gitDirectories/todoLINUX",
+		"/home/robert/me_and_x86_64/gitDirectories/todoLINUX/src"
+	],
+	"file_history":
+	[
+		"/home/robert/me_and_x86_64/todo.c-master/todo.c",
+		"/home/robert/me_and_x86_64/dataStructures&Algorithms/implemented/src/ran.cpp",
+		"/home/robert/me_and_x86_64/javaTouches/Main.java",
+		"/home/robert/me_and_x86_64/dataStructures&Algorithms/implemented/src/ran.h",
+		"/home/robert/me_and_x86_64/dataStructures&Algorithms/implemented/src/new.cpp",
+		"/home/robert/me_and_x86_64/dataStructures&Algorithms/implemented/src/ansh.cpp",
+		"/home/robert/me_and_x86_64/dataStructures&Algorithms/implemented/src/test.cpp",
+		"/home/robert/me_and_x86_64/data structures/implemented/src/ran.cpp",
+		"/home/robert/.config/sublime-text-3/Cache/CppFastOlympicCoding/StressSyntax.sublime-syntax.cache",
+		"/home/robert/Downloads/75095_VTS.srt",
+		"/etc/modules",
+		"/home/robert/me_and_x86_64/sideNotes",
+		"/home/robert/dev/playground/src/main.cpp",
+		"/home/robert/dev/playground/src/blocks.cpp",
+		"/home/robert/me_and_x86_64/c++/test.cpp",
+		"/home/robert/dev/playground/src/sqroot.cpp",
+		"/home/robert/sqroot.cpp",
+		"/home/robert/.bashrc",
+		"/home/robert/.local/share/applications/circuit.desktop",
+		"/home/robert/.bash_logout",
+		"/home/robert/.bash_history-01904.tmp",
+		"/home/robert/.bash_history-01443.tmp",
+		"/home/robert/.bash_history",
+		"/home/robert/notch",
+		"/home/robert/caps.txt",
+		"/home/robert/.local/share/applications/sublime.desktop",
+		"/home/robert/Downloads/circuitjs1/LICENSE",
+		"/home/robert/me_and_x86_64/numbers/num.asm",
+		"/boot/config-4.15.0-88-generic",
+		"/usr/share/unicode/emoji/ReadMe.txt",
+		"/usr/share/unicode/emoji/emoji-data.txt",
+		"/home/robert/dev/playground/src/BinarySearchTree.java",
+		"/home/robert/dev/playground/src/MAIN.java",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C006%5D/Internal storage/Notes/notes_20210216184736.txt",
+		"/home/robert/dev/playground/src/main",
+		"/home/robert/dev/playground/build.sh",
+		"/home/robert/dev/playground/src/node.cpp",
+		"/home/robert/dev/playground/CMakeLists.txt",
+		"/opt/&",
+		"/opt/sublime_text_3/sublime_text.desktop",
+		"/home/robert/sublime_text_3/sublime_text.desktop"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 648.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/todo.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1838,
+								1838
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1112.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "TODO.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
