@@ -6,6 +6,7 @@
 //LIBRARIES USED
 #include "cstdio"
 #include "cstring"
+#include "cstdlib"
 
 //CONSTANTS
 #define PATH "./.todo_file"
@@ -26,7 +27,7 @@ void showHelp();
 void uninstallTodo();
 
 //MAIN PLOT
-int main(int argc, char const *argv[])
+int main(int argc, char *argv[])
 {
 	bool exists=fileExists();
 	//for terminal arguments on the terminal command
@@ -46,7 +47,7 @@ int main(int argc, char const *argv[])
 
 		//if argument is "done" and next argument exists,move todo to completed list
 		else if(strcmp(argv[1],"done")==0&&argv[2])
-			completeTodos();
+			completeTodo(argv[2]);
 
 		//if argument is "del" and next argument exists, delete corresponfing todo
 		else if(strcmp(argv[1],"del")==0&&argv[2])
