@@ -122,7 +122,7 @@ void showAll()
 		system(buffer);
 	}
 	else
-		printf("\nNo todos on the list\nTry use - todo add \"todo name\"\n\n");
+		printf("\nNo todos on the list\nTry use - todo add \"todo name\"\nOR type todo help\n\n");
 }
 void showCompleted()
 {
@@ -202,7 +202,7 @@ void deleteTodos()
 }
 void showHelp()
 {
-	printf("\n TODO - command line todo list MM (c) 2012\n");
+	printf("\n TODO - command line todo list\n");
 	printf(" --------------------------------------------\n\n");
 	printf(" Usage:\ttodo [option] <string>\n");
 	printf("\n List of options\n\n");
