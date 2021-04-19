@@ -4,8 +4,40 @@
 		"selected_items":
 		[
 			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"unins",
+				"uninstall"
+			],
+			[
+				"strc",
+				"strcpy"
+			],
+			[
 				"show",
-				"showAll"
+				"showTodos"
+			],
+			[
+				"b",
+				"buffer"
+			],
+			[
+				"sho",
+				"showCompleted"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"f",
+				"file"
 			],
 			[
 				"uninsta",
@@ -22,10 +54,6 @@
 			[
 				"sq",
 				"sqrt"
-			],
-			[
-				"i",
-				"i"
 			],
 			[
 				"a",
@@ -134,10 +162,6 @@
 			[
 				"l",
 				"l"
-			],
-			[
-				"b",
-				"b"
 			]
 		]
 	},
@@ -147,7 +171,7 @@
 			"file": "src/todo.cpp",
 			"settings":
 			{
-				"buffer_size": 1838,
+				"buffer_size": 4942,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -288,6 +312,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"buf",
+			"buffer"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -295,6 +321,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"buffer",
+			"buf"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -314,23 +342,24 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1838,
+						"buffer_size": 4942,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1838,
-								1838
+								1154,
+								1154
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C++.sublime-syntax"
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1112.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -382,7 +411,7 @@
 	"project": "TODO.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 73.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -420,7 +449,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 253.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
