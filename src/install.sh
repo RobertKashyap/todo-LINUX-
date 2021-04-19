@@ -7,7 +7,7 @@ echo "TODO initiating installation..."
 if [[ $EUID -ne 0 ]]; then
    echo ""
    echo "ERROR"
-   echo "say I AM ROOT""
+   echo "say I AM ROOT"
    echo "try this: -> sudo ./install.sh"
    echo ""
    exit 1

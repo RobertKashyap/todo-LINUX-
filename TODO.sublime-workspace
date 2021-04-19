@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"n",
+				"ns\tNamespace"
+			],
+			[
 				"i",
 				"inc\t#include <…>"
 			],
@@ -116,10 +120,6 @@
 				"inorderTraversal"
 			],
 			[
-				"n",
-				"node"
-			],
-			[
 				"dele",
 				"deleteNode"
 			],
@@ -171,7 +171,7 @@
 			"file": "src/todo.cpp",
 			"settings":
 			{
-				"buffer_size": 4942,
+				"buffer_size": 4949,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -342,15 +342,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4942,
+						"buffer_size": 4949,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1154,
-								1154
+								2507,
+								2507
 							]
 						],
 						"settings":
@@ -359,7 +359,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 467.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -411,7 +411,7 @@
 	"project": "TODO.sublime-project",
 	"replace":
 	{
-		"height": 73.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -449,7 +449,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 50.0,
+	"side_bar_width": 234.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
