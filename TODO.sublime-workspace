@@ -168,10 +168,10 @@
 	"buffers":
 	[
 		{
-			"file": "src/todo.cpp",
+			"file": "/home/robert/Desktop/gits",
 			"settings":
 			{
-				"buffer_size": 4949,
+				"buffer_size": 133,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -254,6 +254,8 @@
 	],
 	"file_history":
 	[
+		"/home/robert/Desktop/gits",
+		"/home/robert/me_and_x86_64/gitDirectories/todoLINUX/src/todo.cpp",
 		"/home/robert/me_and_x86_64/todo.c-master/todo.c",
 		"/home/robert/me_and_x86_64/dataStructures&Algorithms/implemented/src/ran.cpp",
 		"/home/robert/me_and_x86_64/javaTouches/Main.java",
@@ -338,28 +340,31 @@
 			[
 				{
 					"buffer": 0,
-					"file": "src/todo.cpp",
+					"file": "/home/robert/Desktop/gits",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4949,
+						"buffer_size": 133,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2507,
-								2507
+								1,
+								1
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 467.0,
+<<<<<<< HEAD
+						"translation.y": 0.0,
+=======
+
+>>>>>>> origin/main
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
