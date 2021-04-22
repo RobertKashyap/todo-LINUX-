@@ -1,3 +1,0 @@
-/home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles/rebuild_cache.dir
-/home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles/TODO.dir
-/home/robert/me_and_x86_64/gitDirectories/todoLINUX/CMakeFiles/edit_cache.dir

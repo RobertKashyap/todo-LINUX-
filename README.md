@@ -15,7 +15,11 @@ That is it, you are ready to go ;)
 ##Usage
 TODO is projected to work on your local directories. When you run **todo** in your current directory a **".todo_file"** will be created where all your todos will be saved.
     
-    todo [option] <string>
+    todo [option] "string"
+    or
+    todo [option] 'string,
+    or
+    todo [option] string ;for single word strings only
 
 ##List of options
 
@@ -31,21 +35,6 @@ TODO is projected to work on your local directories. When you run **todo** in yo
 ##Dependencies
 All tools used to build __todo__ can be found in most of the X (linux/unix) distributions, but just to let you know, I am using:
 
-	gcc        C programing language compiler
+	g++        C++ programing language compiler
 	sed        powerful string pre-processor 
 	awk        another powerful pre-processor
-
-##Todos
-Future features that I am planning add to the project
-
-	1. swap   - change position between items of status "+" (todo)
-	2. top    - send item with status + to the top of the list
-	3. bottom - send item with status + to the top of the list
-	4. up     - send item up one position
-	5. down   - send item down one position
-	6. at	  - include crontab job to alert about todo on specified date
-	7. on	  - include date when todo is completed
-	8. mail	  - send todo list to email address
-	9. create test and installation script with MAKE
-    10.attach - (todo 1 attach [path to file]) will attach file to todo item, how display attachements?
-
